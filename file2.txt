@@ -1,0 +1,4 @@
+name kanishq pantawane
+age 18
+college - sitrc
+detail: file 2 .
