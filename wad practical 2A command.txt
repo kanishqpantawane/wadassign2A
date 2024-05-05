@@ -1,0 +1,32 @@
+1 mkdir 2A
+
+2 cd 2A
+
+3 git --version 
+
+4 git init
+
+5 git add .
+
+6 git status
+
+7 git push -u origin master
+
+8 git push --set-upstream origin master  (if error occurred on step 7 then put this next)
+
+end pratical
+
+
+for more file add
+
+make file amd enter some texts to it
+ then
+git status
+ new file is untracked
+git add name with extension
+check status file is add or not
+ then commit changes by command :git commit -m "Second Commit"
+
+then 
+git push -u origin master 
+done refresh your git hub repository it will shown.
